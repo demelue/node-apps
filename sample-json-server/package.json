@@ -1,0 +1,13 @@
+{
+  "name": "sample-json-server",
+  "version": "1.0.0",
+  "description": "sample json server to store data in data.json",
+  "scripts": {
+    "json:server": "json-server --watch data.json"
+  },
+  "author": "doye emelue",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}

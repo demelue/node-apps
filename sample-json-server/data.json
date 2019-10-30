@@ -1,0 +1,28 @@
+{
+  "database": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "age": 12
+    },
+    {
+      "id": "3",
+      "name": "Sam Doe",
+      "email": "Sdoe@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "4",
+      "name": "Richard Doe",
+      "email": "Rdoe@gmail.com",
+      "age": 15
+    }
+  ]
+}
